@@ -1,5 +1,8 @@
 class Github
   def display_name
-    'Victor Elizalde'
+  end
+
+  def display_soda
+    'Fanta'
   end
 end
