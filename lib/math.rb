@@ -1,5 +1,9 @@
 class Math
-  def sum
-    1+1
+  def sum(n, m)
+    n + m
+  end
+
+  def subtract(n, m)
+    n - m
   end
 end
