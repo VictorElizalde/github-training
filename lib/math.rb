@@ -6,4 +6,8 @@ class Math
   def subtract(n, m)
     n - m
   end
+
+  def multiply(a, m)
+    a*m
+  end
 end
