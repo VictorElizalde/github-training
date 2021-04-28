@@ -3,8 +3,7 @@ class Math
     1+1
   end
 
-  def square
-    Math.sqrt(9)
+  def square_root(n)
+    Math.sqrt(n)
   end
-
 end
