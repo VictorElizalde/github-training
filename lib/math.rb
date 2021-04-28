@@ -3,3 +3,7 @@ class Math
     1+1
   end
 end
+
+def multiply (a,m)
+  a*m
+end
