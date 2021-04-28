@@ -10,4 +10,8 @@ class Math
   def multiply(a, m)
     a*m
   end
+
+  def division(a, b)
+    a/b
+  end
 end
