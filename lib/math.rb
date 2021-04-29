@@ -16,7 +16,7 @@ class Math
   end
 
   def even_number(a)
-   puts a.even?
+    a%2==0
   end
-  
+
 end
