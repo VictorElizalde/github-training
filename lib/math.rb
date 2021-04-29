@@ -14,4 +14,9 @@ class Math
   def division(a, b)
     a/b
   end
+
+  def even_number(a)
+   puts a.even?
+  end
+  
 end
