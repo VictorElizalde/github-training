@@ -14,4 +14,8 @@ class Math
   def division(a, b)
     a/b
   end
+
+  def odd(number)
+    number%2 != 0 
+  end
 end
